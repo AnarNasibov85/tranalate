@@ -1,4 +1,5 @@
 const countries = {
+    "az-AZ":'Azərbaycan',
     "am-ET": "Amharic",
     "ar-SA": "Arabic",
     "be-BY": "Bielarus",
@@ -96,5 +97,5 @@ const countries = {
     "xh-ZA": "Xhosa",
     "yi-YD": "Yiddish",
     "zu-ZA": "Zulu",
-    "az-AZ":'Azərbaycan',
+    
 }
